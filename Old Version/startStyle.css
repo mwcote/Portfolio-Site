@@ -1,0 +1,157 @@
+
+body {
+	
+	background-color: #D0D2DD;
+	
+	font-family: "Times New Roman";
+	
+}
+
+header {
+	
+	background-color: #B2DDFF;
+	
+	height: 20%;
+	
+	width: 100%;
+	
+	float: right;
+	
+	font-family: "Courier New";
+	
+	font-size: 80px;
+	
+	text-align: center;
+	
+	line-height: 200%;
+
+	border-style: solid;
+	
+	border-width: 5px 0px 5px 0px;
+	
+	position: fixed;
+	
+	top: 0;
+}
+
+ul.menu{
+	
+	list-style-type: none;
+	
+	margin: 0;
+	
+	padding: 0;
+	
+	width: 12%;
+	
+	height: 80%;
+	
+	float: left;
+	
+	background-color: #9A0040;
+	
+	border-style: solid;
+	
+	border-width: 0px 5px 0px 0px;
+	
+	position: fixed;
+	
+	left: 0;
+	
+	bottom: 0;
+	
+}
+
+li a{
+	
+	display:block;
+	
+	color: white;
+	
+	padding: 20px 16px;
+	
+	text-decoration: none;
+	
+	font-size: 30px
+}
+
+li a:hover{
+	
+	background-color: black;
+	
+}
+
+h2{
+	
+	font-size: 40px;
+	
+	text-align: center;
+	
+	font-weight: bold;
+	
+	padding: 30px 0px 30px 0px;
+}
+
+h3{
+	
+	font-size: 25px;
+	
+	text-align: left;
+	
+	font-weight: bold;
+	
+	padding: 20px;
+	
+}
+
+div.blocked{
+	
+	background-color: white;
+	
+	margin: 0px 20px 0px 200px;
+	
+	border-style: solid;
+	
+	border-width: 3px;
+	
+	border-radius: 5px;
+	
+	border-color: #9A0040;
+	
+}
+
+p.blockedText{
+	
+	line-height: 1.8;
+	
+	margin: 10px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

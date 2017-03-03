@@ -1,0 +1,113 @@
+
+body {
+	font-family: Verdana;
+
+	min-height: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background: #DBEFFF;
+	background-repeat:no-repeat;
+	background: -webkit-linear-gradient( to bottom, #B2DDFF, #DBEFFF);
+	background: -moz-linear-gradient( to bottom, #D2DDFF, #DBEFFF);
+	background: -ms-linear-gradient(to bottom, #D2DDFF, #DBEFFF);
+	background: -o-linear-gradient( to bottom, #D2DDFF, #DBEFFF);
+	background: linear-gradient( to bottom, #D2DDFF, #DBEFFF);
+}
+
+div.center{
+
+	float: none;
+
+	margin: 0 auto;
+
+}
+
+.col-centered{
+
+	float: none;
+
+	margin: auto;
+
+}
+
+.jumbotron{
+
+	background-color: #B2DDFF;
+
+	color: black;
+
+}
+
+.btn-primary{
+
+	background-color: black;
+
+	border-style: none;
+
+}
+
+.btn-primary:hover{
+
+	background-color: grey;
+
+}
+
+div.blocked{
+
+	background-color: white;
+
+	border-style: solid;
+
+	border-width: 3px;
+
+	border-radius: 5px;
+
+	border-color: #9A0040;
+
+}
+
+p.blockedText{
+
+	line-height: 2.5;
+
+	margin: 10px;
+
+	color: black;
+
+}
+
+li{
+
+	padding: 10px;
+
+}
+
+.endLine{
+
+	height: 100px;
+
+}
+
+span.employer{
+
+	font-size: 30px;
+
+	font-weight: bold;
+
+}
+
+span.jobTitle{
+
+	font-size: 20px;
+
+	font-style: italic;
+
+}
+
+span.date{
+
+	font-size: 20px;
+
+}
